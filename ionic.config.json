@@ -1,0 +1,7 @@
+{
+  "name": "Nex",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
